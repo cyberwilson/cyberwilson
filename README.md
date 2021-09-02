@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberwilson
 - 👀 I’m interested in ... Space and IoT/5G/AI
-- 🌱 I’m currently learning ... Phyton
+- 🌱 I’m currently learning ... Phyton/ML/Azure/AWS/GKE
 - 💞️ I’m looking to collaborate on ... IoT Projects
 - 📫 How to reach me ... @cyberwilson and cyberwilson@outlook.com
 
